@@ -10,6 +10,12 @@
 			"LoadingPhase": "Default"
 		}
 	],
+	"Plugins": [
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
+		}
+	],
 	"TargetPlatforms": [
 		"AllDesktop",
 		"MacNoEditor",
